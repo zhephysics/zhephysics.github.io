@@ -83,7 +83,7 @@ author:
   name             : "Zhe Yu"
   avatar           : "profile.png"
   bio              : "Amateur math enthusiast."
-  location         : "China GuangZhou"
+  location         : #"China GuangZhou"
   employer         : "University of Minnesota, Twin Cities"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhephysics"
+  github           : #"zhephysics"
   google_plus      :
   keybase          :
   instagram        :
