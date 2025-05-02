@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Amateur math enthusiast."
   location         : "China GuangZhou"
-  employer         :
+  employer         : "University of Minnesota, Twin Cities"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yu000959@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhephysics"
+  github           : "zhephysics"
   google_plus      :
   keybase          :
   instagram        :
