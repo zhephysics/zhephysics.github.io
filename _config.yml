@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhe Yu"
   avatar           : "profile.png"
-  bio              : #"Amateur math enthusiast."
-  location         : "US Minneapolis"
+  bio              : "Amateur math enthusiast."
+  location         : #"US Minneapolis"
   employer         : "University of Minnesota"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
