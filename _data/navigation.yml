@@ -1,10 +1,8 @@
 # main links links
-
 main:
   - title: "Papers"
-    url:   /papers/
+    url: /papers/
   - title: "Notes"
-    url:   /notes/
-
+    url: /notes/
         
 
